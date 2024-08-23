@@ -1,3 +1,9 @@
+# random files
+models/vosk-model-en-us-0.42-gigaspeech/
+audio/whatsapp_20240822.wav
+text/whatsapp_20240822.txt
+text/test.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
